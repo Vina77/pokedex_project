@@ -26,7 +26,7 @@ To run this project locally:
 
 1. Clone the repository:
   ```
-    git clone https://github.com/Vina77/pokedex_project.git
+  git clone https://github.com/Vina77/pokedex_project.git
   ```
 
 2. Navigate to the project directory:
