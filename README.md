@@ -1,6 +1,6 @@
-# Pokedex Project
+# Pokédex Project
 
-This project is a simple Pokedex application designed to demonstrate the use of React for building a robust and interactive user interface. The application retrieves data from a Pokémon API and displays detailed information about various Pokémon. Users can search for specific Pokémon and view their stats, abilities, and type information.
+This project is a simple Pokédex application designed to demonstrate the use of React for building a robust and interactive user interface. The application retrieves data from a Pokémon API and displays detailed information about various Pokémon. Users can search for specific Pokémon and view their stats, abilities, and type information.
 
 ##
 
